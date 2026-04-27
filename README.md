@@ -1,3 +1,4 @@
+> Migrated to [Codeberg](https://codeberg.org/UserScripters/userscript-kit)
 
 # About
 
